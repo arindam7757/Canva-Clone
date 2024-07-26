@@ -21,3 +21,5 @@ Web Site- https://lidojs.com/pricing
 demo - https://demo.lidojs.com/
 
 Final Website - https://lidojs.com/
+
+Arindam Biswas
