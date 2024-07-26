@@ -15,3 +15,9 @@ We're thrilled to present our latest creation – a cutting-edge graphic design 
 ✨ Easy Upgrades, Seamless Experience
 
 Built with ReactJS, our tool offers a seamless experience and allows for easy upgrades, ensuring that you always have access to the latest features and enhancements. With our user-friendly interface and intuitive design, you'll feel right at home from the moment you start using it.
+
+Web Site- https://lidojs.com/pricing
+
+demo - https://demo.lidojs.com/
+
+Final Website - https://lidojs.com/
